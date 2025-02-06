@@ -1,4 +1,6 @@
 <template>
-  <div>Хедер</div>
+  <header>
+    <P>Как дела?</P>
+  </header>
 </template>
 <style></style>
