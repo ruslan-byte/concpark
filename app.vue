@@ -1,12 +1,8 @@
 <template>
   <div>
-<div>
-  <h1>Hellow</h1>
-</div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <LayoutHeader></LayoutHeader>
+    <NuxtPage></NuxtPage>
+    <LayoutFooter></LayoutFooter>
   </div>
 </template>
-<style>
- 
-</style>
+<style></style>
