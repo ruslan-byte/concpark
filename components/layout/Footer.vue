@@ -1,5 +1,5 @@
 <template>
-  <div>Футер</div>
+  <div></div>
 </template>
 <script setup lang="ts"></script>
 <style></style>

@@ -1,8 +1,10 @@
 <template>
 
   <header>
-    <P>Как дела?</P>
+    <LayoutSearch></LayoutSearch>
   </header>
+
+ 
 
 </template>
 <style></style>
