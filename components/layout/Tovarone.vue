@@ -73,6 +73,7 @@
   justify-content:center;
  }
 .card {
+  list-style: none;
   border: 1px solid #F6F6F6;
   height: 431px;
   
