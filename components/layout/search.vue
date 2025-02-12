@@ -36,7 +36,6 @@
     }
 
     .search button {
-        position: absolute;
         margin: 0;
         width: 56px;
         height: 51px;
