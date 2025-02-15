@@ -1,15 +1,17 @@
 <template>
 
     <footer>
-      <div class="container">
       <div class="footer1" >
+        <div class="container">
         <a href="#" id="back-to-top" class="back-to-top" title="Back to top"
         ><br>
         <IconArrowTop></IconArrowTop>
    В начало страницы</a>
       </div>
+    </div>
       <div class="footer2">
-      <div class="f-cont">
+      <div class="f-cont container">
+        
         <div class="bloc1">
           <ul class="spisoc1">  
           <li>О компании</li> 
@@ -60,7 +62,7 @@
   </li>
         </ul>
     
-      </div>
+      
       </div>
       </div>  
       </div>
@@ -204,14 +206,14 @@
     text-align: left;
     list-style: none;
   }
-  a {
+  footer a {
     font-weight: normal;
     text-decoration: none;
     color: #727272;
   }
   .back-to-top {
     width: 100%;
-    height: 100%;
+    height: 72px;
     display: block;
     color: #1D1D1B;
     font-weight: bold;
