@@ -2,5 +2,5 @@
 export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
-  css: ["~/assets/css/breadcrumds.css"]
+  css: ["~/assets/css/breadcrumds.css", "~/assets/css/container.css"] 
 });
